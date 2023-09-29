@@ -9,31 +9,22 @@ October 9 to October 14
    - Welcome Ice breakers by Paula at like 9:30
    - At 10 Go to the room, 
    - Dorka's introduction to computanial linguisttics - 
-   - Paula gives everyone a tour
+   - Introduction to the university platforms (Moodle, Ilias, Horde)
+   - Tour with Paula
 - Tuesday 
   - Explaning program structure
     - General overview first
-    - Break
-    - Going what is programming 
-    - Class spceific overview
+   - Signing up on Alma, Language Courses, Scheduling
 - Wednesday 
-  - Add a small session for questions
-  - Maybe split at this point for advanced people
-  - For advanced people, 
-    - we can show them something cool
-    - Also talk about courses
-  - Noobs
-    - Git
-    - Commandline
-    - Debugging
+  - What is Programming? An introduction
+  - Introduction to Git, Commandline, Debugging
 - Thursday
-  - Intro to Installing an IDE
-  - For those that already did it, they can come later
-  - Alma
-  - Signing up for classes
+  - Intro to Installing an IDE (Java, Python, VSCode)
+
 - Friday 
-  - More Paula or stuff
   - Q and A session
+  - Finishing up the installations
+  - Living in Tübingen
   - And if we really have time we can play a game
 
   
